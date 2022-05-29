@@ -123,8 +123,11 @@ Click on  Show Attendance (Sorted by Date) again to show the attendance of the g
 Youtube Video For Reference
 https://www.youtube.com/watch?v=PuXIGsJb3FA
 
+Contact: nakshatramittal11@gmail.com 
+
 ## Known Bugs :
 ------------------------------
 This project have some bugs.
 * The WebApp takes approx 40 seconds to configure any changes applied
 * If any button is pressed it takes approx 30-40 seconds to refresh the screen and dislay the result
+
