@@ -1,6 +1,6 @@
 # Attendance Management Using Face Recognition
 
- ### Recognize The Fces And Take Automatic Attandance. :
+ ### Recognize The Faces And Take Automatic Attandance. :
 
 ## Motivation :
 ----------------------------
@@ -9,7 +9,7 @@ We seek to provide a valuable attendance service for students. Reduce manual pro
 ## Features :
 ---------------------------
 * Check Camera
-* Upload Faces
+* Upload Faces With Their Names
 * Recognize Faces & Attendance
 * Show Attendance Overall
 * Show Attendance Date Wise
@@ -96,11 +96,13 @@ Click on Run to start the webapp face recognition
 
 ![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/3.jpg?raw=true)
 
-click on Browse files to upload an image for dataset
+Click on Browse files to upload an image for dataset
+
+NOTE :- File name should be same as person name spaces are not allowed use '_' instead of space
 
 ![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/4.jpg?raw=true)
 
-select your desired file from your computer and upload
+Select your desired file from your computer and upload
 
 ![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/5.jpg?raw=true)
 
@@ -116,4 +118,4 @@ Select date from the below options
 
 ![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/8.jpg?raw=true)
 
-click on  Show Attendance (Sorted by Date) again to show the attendance of the given date
+Click on  Show Attendance (Sorted by Date) again to show the attendance of the given date
