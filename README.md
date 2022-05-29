@@ -78,3 +78,42 @@ If you want to use it just follow the steps below.
 3. Create a python enviroment
 4. Install all the packages 
 5. Run the project using the command line or your IDE Run Button
+
+## Test Run :
+-----------------------
+After creating the enviroment and installing the packages, open the IDE terminal/command line to run the program. Using the code below.
+
+```
+streamlit run app.py
+```
+Here is a demo to run the program. I'm Using the VS code IDE in my demo.
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/1.jpg?raw=true)
+
+Click on Run to start the webapp face recognition
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/2.jpg?raw=true)
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/3.jpg?raw=true)
+
+click on Browse files to upload an image for dataset
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/4.jpg?raw=true)
+
+select your desired file from your computer and upload
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/5.jpg?raw=true)
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/6.jpg?raw=true)
+
+Click on show attendance (Total) to show total attendance in the database
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/7.jpg?raw=true)
+
+Click on Show Attendance (Sorted by Date) 
+
+Select date from the below options
+
+![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/8.jpg?raw=true)
+
+click on  Show Attendance (Sorted by Date) again to show the attendance of the given date
