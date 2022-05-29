@@ -119,3 +119,9 @@ Select date from the below options
 ![Test Run](https://github.com/nakshatramittal11/attendance_management_using_face_recognition_ms_engage/blob/main/ms%20pictures/8.jpg?raw=true)
 
 Click on  Show Attendance (Sorted by Date) again to show the attendance of the given date
+
+## Known Bugs :
+------------------------------
+This project have some bugs.
+* The WebApp takes approx 40 seconds to configure any changes applied
+* If any button is pressed it takes approx 30-40 seconds to refresh the screen and dislay the result
